@@ -139,15 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CheckTarif.cpp" />
     <ClCompile Include="OptimatTraficConsole.cpp" />
-    <ClCompile Include="Output.cpp" />
-    <ClCompile Include="Tarif.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="CheckTarif.h" />
-    <ClInclude Include="Tarif.h" />
-    <ClInclude Include="Output.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
